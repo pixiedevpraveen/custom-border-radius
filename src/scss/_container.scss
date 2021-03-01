@@ -1,0 +1,11 @@
+.container {
+  min-height: calc(100vh - 2rem);
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-evenly;
+  overflow: hidden;
+  position: relative;
+
+}
